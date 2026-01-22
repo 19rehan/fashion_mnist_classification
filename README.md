@@ -57,7 +57,7 @@ The goal is to build and evaluate a **deep learning model** that can accurately 
 ## ▶️ How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/fashion-mnist-classification.git
+   git clone https://github.com/19rehanfashion-mnist-classification.git
    cd fashion-mnist-classification
 
 
