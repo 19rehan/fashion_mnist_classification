@@ -26,3 +26,36 @@ The goal is to build and evaluate a **deep learning model** that can accurately 
 ---
 
 ## 📂 Project Structure
+
+
+
+
+---
+
+## ⚙️ Model Architectures
+### ANN
+- Input: Flattened 28x28 images  
+- Hidden Layers: Dense layers with ReLU activation  
+- Output Layer: Dense(10) with Softmax activation  
+
+### CNN
+- Convolutional + MaxPooling layers for feature extraction  
+- Dropout layers for regularization  
+- Dense layers for classification  
+- Output Layer: Dense(10) with Softmax activation  
+
+---
+
+## 📊 Results
+- **ANN Accuracy**: ~85%  
+- **CNN Accuracy**: ~90%+  
+- **Confusion Matrix**: Shows per-class performance  
+- **Precision/Recall/F1**: Balanced evaluation across categories  
+
+---
+
+## ▶️ How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/fashion-mnist-classification.git
+   cd fashion-mnist-classification
