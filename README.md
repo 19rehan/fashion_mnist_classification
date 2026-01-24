@@ -59,7 +59,7 @@ The goal is to build and evaluate a **deep learning model** that can accurately 
 1. Clone the repository:
    ```bash
    git clone https://github.com/19rehanfashion-mnist-classification.git
-   cd fashion-mnist-classif
+   cd fashion-mnist-class
 ---
 
 This README highlights both **technical depth** and **real-world relevance**, making your repo look professional and complete.  
