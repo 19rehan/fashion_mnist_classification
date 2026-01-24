@@ -61,7 +61,6 @@ The goal is to build and evaluate a **deep learning model** that can accurately 
    git clone https://github.com/19rehanfashion-mnist-classification.git
    cd fashion-mnist-classification
 
-
 ---
 
 This README highlights both **technical depth** and **real-world relevance**, making your repo look professional and complete.  
