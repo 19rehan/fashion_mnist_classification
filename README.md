@@ -6,6 +6,7 @@ This project demonstrates image classification on the **Fashion MNIST dataset**,
 The goal is to build and evaluate a **deep learning model** that can accurately classify fashion items, showcasing practical applications of **Convolutional Neural Networks (CNNs)** and **Artificial Neural Networks (ANNs)**.
 
 
+
 ---
 
 ## 🚀 Features
