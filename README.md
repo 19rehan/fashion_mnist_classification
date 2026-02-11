@@ -3,6 +3,7 @@
 ## 📌 Overview
 This project demonstrates image classification on the **Fashion MNIST dataset**, a benchmark dataset consisting of **70,000 grayscale images** of clothing items across **10 categories** (e.g., T-shirt, Trouser, Dress, Sneaker).  
 
+
 The goal is to build and evaluate a **deep learning model** that can accurately classify fashion items, showcasing practical applications of **Convolutional Neural Networks (CNNs)** and **Artificial Neural Networks (ANNs)**.
 
 
